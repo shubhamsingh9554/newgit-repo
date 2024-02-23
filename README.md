@@ -1,3 +1,4 @@
 # newgit-repo
-this is my sample git repo
-shubham singh
+This is my sample git repo
+<br>
+Author :  Shubham Singh
